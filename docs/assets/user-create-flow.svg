@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f7f7f5"/>
+  <text x="600" y="70" font-size="34" text-anchor="middle" fill="#222">ユーザー作成から初回ログインまで プレースホルダー</text>
+  <rect x="80" y="150" width="280" height="160" rx="16" fill="#fff" stroke="#444" stroke-width="3"/>
+  <text x="220" y="210" font-size="28" text-anchor="middle" fill="#222">1. 管理者が作成</text>
+  <text x="220" y="255" font-size="22" text-anchor="middle" fill="#666">ユーザーID</text>
+  <text x="220" y="288" font-size="22" text-anchor="middle" fill="#666">メール</text>
+  <text x="220" y="321" font-size="22" text-anchor="middle" fill="#666">権限 / 部門</text>
+  <rect x="460" y="150" width="280" height="160" rx="16" fill="#fff" stroke="#444" stroke-width="3"/>
+  <text x="600" y="210" font-size="28" text-anchor="middle" fill="#222">2. 情報共有</text>
+  <text x="600" y="255" font-size="22" text-anchor="middle" fill="#666">ドメイン</text>
+  <text x="600" y="288" font-size="22" text-anchor="middle" fill="#666">初期パスワード</text>
+  <rect x="840" y="150" width="280" height="160" rx="16" fill="#fff" stroke="#444" stroke-width="3"/>
+  <text x="980" y="210" font-size="28" text-anchor="middle" fill="#222">3. 初回ログイン</text>
+  <text x="980" y="255" font-size="22" text-anchor="middle" fill="#666">ID / Password</text>
+  <text x="980" y="288" font-size="22" text-anchor="middle" fill="#666">OTP</text>
+  <rect x="460" y="430" width="280" height="160" rx="16" fill="#fff" stroke="#444" stroke-width="3"/>
+  <text x="600" y="490" font-size="28" text-anchor="middle" fill="#222">4. 情報更新</text>
+  <text x="600" y="535" font-size="22" text-anchor="middle" fill="#666">パスワード変更</text>
+  <text x="600" y="568" font-size="22" text-anchor="middle" fill="#666">メール確認</text>
+  <path d="M360 230 L440 230" stroke="#666" stroke-width="6"/>
+  <polygon points="440,230 415,215 415,245" fill="#666"/>
+  <path d="M740 230 L820 230" stroke="#666" stroke-width="6"/>
+  <polygon points="820,230 795,215 795,245" fill="#666"/>
+  <path d="M980 330 L980 390 L740 390" stroke="#666" stroke-width="6" fill="none"/>
+  <polygon points="740,390 765,375 765,405" fill="#666"/>
+</svg>

@@ -1,0 +1,36 @@
+site_name: 樹海クラウド会計支援サービス マニュアル
+site_description: ユーザー向け運用マニュアル
+docs_dir: docs
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css
+extra:
+  robots: noindex
+nav:
+  - ホーム: index.md
+  - はじめに: getting-started.md
+  - ログイン: login.md
+  - 日常業務フロー（工事中）: daily-flow.md
+  - ロール別の使い方（工事中）: roles.md
+  - 操作手順（工事中）:
+      - 証憑アップロードと OCR: operations/upload-and-ocr.md
+      - 伝票作成と申請: operations/document-entry.md
+      - 支払承認: operations/payment-approval.md
+      - 経理承認: operations/accounting-approval.md
+      - 入出金 CSV 取込と支払処理: operations/bank-transfer.md
+  - ユーザー利用:
+      - ユーザー作成から初回ログイン: users/first-login.md
+      - 権限による違い: users/permissions.md
+  - 設定手順: 
+      - システム設定: masters/system_setting.md
+      - 部門設定: masters/division_setting.md
+      - 管理者設定（ユーザー設定）: masters/user_setting.md
+      - 文字認識設定: masters/ocr_setting.md
+      - 勘定科目設定: masters/kamoku_setting.md
+      - コードマスタ: masters/code_setting.md
+  - FAQ: faq.md
