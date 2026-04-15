@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+  <rect width="1200" height="680" fill="#f7f7f5"/>
+  <rect x="70" y="60" width="470" height="560" rx="20" fill="#ffffff" stroke="#444" stroke-width="3"/>
+  <text x="305" y="110" font-size="32" text-anchor="middle" fill="#222">ログイン画面 プレースホルダー</text>
+  <rect x="130" y="170" width="350" height="56" rx="8" fill="#f0f0f0" stroke="#999"/>
+  <text x="150" y="205" font-size="24" fill="#555">Domain</text>
+  <rect x="130" y="260" width="350" height="56" rx="8" fill="#f0f0f0" stroke="#999"/>
+  <text x="150" y="295" font-size="24" fill="#555">Username</text>
+  <rect x="130" y="350" width="350" height="56" rx="8" fill="#f0f0f0" stroke="#999"/>
+  <text x="150" y="385" font-size="24" fill="#555">Password</text>
+  <rect x="300" y="460" width="180" height="58" rx="10" fill="#222"/>
+  <text x="390" y="497" font-size="24" text-anchor="middle" fill="#fff">ログイン</text>
+  <rect x="670" y="60" width="460" height="560" rx="20" fill="#ffffff" stroke="#444" stroke-width="3"/>
+  <text x="900" y="110" font-size="32" text-anchor="middle" fill="#222">OTP入力画面 プレースホルダー</text>
+  <rect x="740" y="230" width="320" height="80" rx="10" fill="#f0f0f0" stroke="#999"/>
+  <text x="900" y="280" font-size="30" text-anchor="middle" fill="#555">OTP Code</text>
+  <rect x="840" y="380" width="160" height="58" rx="10" fill="#222"/>
+  <text x="920" y="417" font-size="24" text-anchor="middle" fill="#fff">認証</text>
+  <path d="M555 340 L645 340" stroke="#666" stroke-width="6"/>
+  <polygon points="645,340 620,325 620,355" fill="#666"/>
+</svg>
