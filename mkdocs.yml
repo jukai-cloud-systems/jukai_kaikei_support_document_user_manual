@@ -23,8 +23,14 @@ nav:
   - はじめに: getting-started.md
   - タグ一覧: tags.md
   - ログイン: login.md
-  - 基本操作（工事中）:
-      - 工事中: index.md
+  - トップ（ダッシュボード）: home.md
+  - 基本操作:
+      - 支払伺い作成（書類取込）: operations/document_entry.md
+      - 支払承認／確認: operations/document_approval.md
+  - 経理業務:
+      - 口座振替FD作成: operations/bank_fd.md
+      - 仕訳確定: operations/accounting_approval.md
+      - 仕訳データ（CSV）作成: operations/output_csv.md
   - 各種設定: 
       - システム設定: masters/system_setting.md
       - 部門設定: masters/division_setting.md
@@ -36,5 +42,6 @@ nav:
       - 支払権限ユーザー: masters/role_user_setting.md
       - 会計処理: masters/process_setting.md
       - 支払い方法: masters/payment_setting.md
+  - FAQ: faq.md
   - ヘルプ:
       - 導入時初期設定: masters/init_setting.md
